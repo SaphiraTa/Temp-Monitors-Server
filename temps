@@ -1,0 +1,5 @@
+
+#!/bin/bash
+#Temps
+
+watch -n 1 sensors
